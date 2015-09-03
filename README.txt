@@ -8,6 +8,7 @@ Prestashop. Hide out of stock sizes in current color
 5) Install your module and go to configure it.
 6) In "Content Configuration" section upload HideUnavailableSizes.js and click save in this section.
 7) In "Developer Configurations" section set "Use Text Editor" - NO, and in "Load Files on HTML Header" select "HideUnavailableSizes". Click save in this section.
-8) 
-	
+8) Go to Modules -> Positions. Select in droppdown list your new module.
+9) Remove displayFooter hook for this module. And click Edit in displayHeader  hook.
+10) Now select all pages to exclude except "Product". Click Save.
  
