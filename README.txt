@@ -1,5 +1,5 @@
 # prestashop-color-and-size
-Prestashop. Hide out of stock sizes in current color
+Prestashop. Hide out of stock sizes in selected color
 
 1) Downlad project files.
 2) Open http://contentbox.org/ and create new module, for examle "Color And Size". Download it.
