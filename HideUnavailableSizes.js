@@ -18,8 +18,6 @@ $(document).ready(function(){
   });
 });
 
-
-
 function renewSizeList(sizeList, currentColor){
   $('select[name="group_'+sizeAttributteID+'"]').empty(); //clear list
   var theSize;
